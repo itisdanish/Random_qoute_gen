@@ -69,6 +69,11 @@ Special thanks to the React community for their valuable resources and support.
 Contact
 If you have any questions or feedback, feel free to contact the project maintainer:
 
-Your Name
-Email Address
-LinkedIn Profile
+## Contact
+
+If you have any questions or feedback, feel free to contact the project maintainer:
+
+- **Name:** Tanzeela Mansoor
+- **Email:** tanzeelamansoor99@gmail.com
+- **LinkedIn:** [Tanzeela Mansoor](https://www.linkedin.com/in/thisistanzeela/)
+
