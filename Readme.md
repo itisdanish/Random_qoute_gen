@@ -29,37 +29,39 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/yourusername/spacex-clone-react.git
    
 2. Navigate to the project directory:
+   ```bash
    cd spacex-clone-react
    
 3.Install the dependencies:
-    npm install
+    `npm install`
     # or
-    yarn install
+    `yarn install`
 
 4.Start the development server:
-    npm start
+    `npm start`
     # or
-    yarn start
-5. Open your web browser and visit http://localhost:3000 to view the application.
+    `yarn start`
+5. Open your web browser and visit `http://localhost:3000` to view the application.
 
-Usage
+## Usage
 Explore rockets and capsules from SpaceX.
 Use the search form to filter data by status, original launch, and type.
 API Authorization
 To authorize the REST API for communication with SpaceX, you will need to provide your own API keys and credentials. Follow the instructions in the API documentation for setting up authorization.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository on GitHub.
-Create a new branch with a descriptive name.
-Make your changes and commit them with descriptive messages.
-Push your changes to your fork.
-Create a pull request to submit your contribution.
-License
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Create a pull request to submit your contribution.
+
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 Thanks to SpaceX for providing the data and inspiration for this project.
 Special thanks to the React community for their valuable resources and support.
 Contact
@@ -68,5 +70,3 @@ If you have any questions or feedback, feel free to contact the project maintain
 Your Name
 Email Address
 LinkedIn Profile
-
-
