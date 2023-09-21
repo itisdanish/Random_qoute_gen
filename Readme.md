@@ -41,11 +41,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/spacex-clone-react.git
+   git clone https://github.com/thisistanzeela/Tanzeela_Mansoor-FrontendDeveloper.git
    
 2. Navigate to the project directory:
    ```bash
-   cd spacex-clone-react
+   cd Tanzeela_Mansoor-FrontendDeveloper
    
 3.Install the dependencies:
     `npm install`
