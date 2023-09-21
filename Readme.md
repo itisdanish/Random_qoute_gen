@@ -4,6 +4,19 @@ A SpaceX Clone application built with ReactJS that allows users to explore Space
 
 ![Movie 22_1](https://github.com/itisdanish/Random_qoute_gen/assets/65316644/4dae92d3-bf9d-4401-863b-1901937a57ee)
 
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [API Authorization](#api-authorization)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
+
+
 ## Features
 
 - **Landing Page:** A pixel-perfect landing page showcasing your UI skills.
