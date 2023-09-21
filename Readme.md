@@ -2,6 +2,8 @@
 
 A SpaceX Clone application built with ReactJS that allows users to explore SpaceX rockets and capsules. This project includes a modern landing page with three main sections: Banner, Search Form, and Data Grid. It also utilizes an authorized REST API built with Node.js for fetching and sending data between SpaceX and the application.
 
+![Movie 22_1](https://github.com/itisdanish/Random_qoute_gen/assets/65316644/4dae92d3-bf9d-4401-863b-1901937a57ee)
+
 ## Features
 
 - **Landing Page:** A pixel-perfect landing page showcasing your UI skills.
