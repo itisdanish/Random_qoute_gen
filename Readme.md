@@ -59,7 +59,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 5. Open your web browser and visit `http://localhost:3000` to view the application.
 
 ## Usage
-Explore rockets and capsules from SpaceX.
+Explore rockets and capsules from SpaceX..
 Use the search form to filter data by status, original launch, and type.
 API Authorization
 To authorize the REST API for communication with SpaceX, you will need to provide your own API keys and credentials. Follow the instructions in the API documentation for setting up authorization.
